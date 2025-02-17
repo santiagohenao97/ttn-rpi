@@ -62,6 +62,8 @@ Dentro del directorio `the-thing-stack`, crea el archivo `docker-compose.yml` (p
 Asimismo, dentro de  `the-thing-stack/config/stack/`, crea el archivo `ttn-lw-stack-docker.yml`
 
 
+**Nota:** Cambia la IP por la IP de tu Raspberry Pi.
+
 ## Paso 4: Configurar los certificados
 
 En el directorio `the-things-stack/`, crea y edita el archivo `ca.json` para generar la clave de la autoridad certificadora (CA):
