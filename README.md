@@ -55,12 +55,12 @@ cd ..
 cd the-thing-stack
 ```
 
+### Templates
+
 Dentro del directorio `the-thing-stack`, crea el archivo `docker-compose.yml` (plantilla).
 
-```bash
-cd config/stack/
-nano ttn-lw-stack-docker.yml
-```
+Asimismo, dentro de  `the-thing-stack/config/stack/`, crea el archivo `ttn-lw-stack-docker.yml`
+
 
 ## Paso 4: Configurar los certificados
 
